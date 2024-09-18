@@ -28,8 +28,6 @@
   
     // Set the default tab size to 4 spaces for Python
     "editor.tabSize": 4,
-  
-    // Enable Jupyter notebook support
-    "jupyter.interactiveWindowMode": "perFile"
+    "jupyter.interactiveWindow.creationMode": "perFile"
   }
   
